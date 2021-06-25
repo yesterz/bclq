@@ -1,6 +1,8 @@
 ## this is the very first page
 ## not where the story line ends
 
+![avatar](sugar.jpg)
+
 [test a link](https://github.com/zzxnpk/zzxnpk.github.io/blob/main/the%20very%20first%20page.md)
 
 You can use the [editor on GitHub](https://github.com/zzxnpk/zzxnpk.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
