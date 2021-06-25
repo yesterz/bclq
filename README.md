@@ -41,3 +41,5 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 
 [this is a editTesting page]
+
+[another editing test for the publishing]
